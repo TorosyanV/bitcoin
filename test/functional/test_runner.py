@@ -114,6 +114,7 @@ BASE_SCRIPTS= [
     'p2p-leaktests.py',
     'wallet-encryption.py',
     'uptime.py',
+    'wallet-labels.py',
 ]
 
 EXTENDED_SCRIPTS = [
